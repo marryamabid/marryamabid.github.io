@@ -9,6 +9,7 @@
 }
 #navbar{
     background: color #8bcbe9; 
+    position:fixed
 }
 #logo{
     font-size: 36px;
